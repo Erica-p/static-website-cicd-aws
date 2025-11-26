@@ -26,8 +26,7 @@ jobs:
       # Deploy static site files to S3
       - name: Sync files to S3
         run: |
-          aws s3 sync src/ s3://YOUR_BUCKET_NAME --delete
-
+          aws s3 sync src/ s3://erica-static-site-2025 --delete
       # Optional: CloudFront invalidation (uncomment when ready)
       # - name: Invalidate CloudFront cache
       #   run: |
