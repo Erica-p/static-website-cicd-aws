@@ -56,9 +56,7 @@ README.md                → Project documentation
 ---
 
 ## 📊 Architecture Diagram
-<p align="center">
-  <img src="./architecture-diagram.png" alt="AWS Architecture Diagram" width="700"/>
-</p>
+(Architecture diagram coming soon)
 
 ---
 
