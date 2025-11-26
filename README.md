@@ -29,11 +29,10 @@ It follows real cloud engineering patterns:
 
 ## 📁 Project Structure  
 
-src/                     → Website files (HTML/CSS/JS)
+site-code/               → Website files (HTML/CSS/JS)
 .github/workflows        → CI/CD pipeline
 cloudformation/          → IaC templates
 README.md                → Project documentation
-
 ---
 
 ## 🛠️ Tools Used  
